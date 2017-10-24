@@ -3,7 +3,7 @@ angular2 MediaList
 
 * to download file from github
 
-**git clone ssh://..address of github project..**
+**git clone ssh://github.com/SelinProject/MediaList**
 
 * to clone  project
 
