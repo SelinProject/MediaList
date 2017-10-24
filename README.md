@@ -5,7 +5,7 @@ angular2 MediaList
 
 **git clone ssh://..address of github project..**
 
-* to clone mistral project
+* to clone  project
 
 **brew install node**
 
